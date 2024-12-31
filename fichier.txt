@@ -1,0 +1,1 @@
+Avec PHP, la création ou la lecture de fichiers est, une fois de plus, assez simple. Il existe une multitude de fonctions dédiées à l'utilisation des fichiers. La communication entre le script PHP et le fichier est repérée par une variable, indiquant l'état du fichier et que l'on peut passer en paramètre aux fonctions spécialisées pour le manipuler.
